@@ -39,7 +39,7 @@
 <table>
     <h2 style="color: red;">sierwis x razy w tyg.</h2>
 <tr>
-    <th colspan=2>dni tygodnia i serwis</th>
+    <th colspan=2>dni tygodnia i serwis </th>
 </tr>
 <tr>
     <td>poniedziałek</td>
